@@ -15,6 +15,10 @@
 - Support all chipsets
 <hr/>
 
+# Warning
+- I will not take responsibility if a problem occurs.
+- Not all roms are profitable, so be careful.
+
 # Tested
 1. Redmi Note 12 4G NFC (TOPAZ)
 2. Redmi Note 8 (GINKGO)
