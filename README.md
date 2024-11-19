@@ -9,20 +9,21 @@
 3. Reboot
 <hr/>
 
-# Note
-- Support Android 10-15
-- Support [Ksu](https://github.com/tiann/KernelSU/releases)-[APatch](https://github.com/bmax121/APatch/releases/tag/10763)-[Magisk](https://github.com/topjohnwu/Magisk/releases/tag/v28.0)
-- Support all chipsets
+> [!NOTE]
+> - Support Android 10-15
+> - Support [Ksu](https://github.com/tiann/KernelSU/releases)-[APatch](https://github.com/bmax121/APatch/releases/tag/10763)-[Magisk](https://github.com/topjohnwu/Magisk/releases/tag/v28.0)
+> - Support all chipsets
 <hr/>
 
-# Warning
-- I will not take responsibility if a problem occurs.
-- Not all roms are profitable, so be careful.
+> [!WARNING]
+> - I will not take responsibility if a problem occurs.
+> - Not all roms are profitable, so be careful.
 
-# Tested
-1. Redmi Note 12 4G NFC (TOPAZ)
-2. Redmi Note 8 (GINKGO)
-3. Redmi Note 7 (LAVENDER)
+> ##
+> Tested
+> 1. Redmi Note 12 4G NFC (TOPAZ)
+> 2. Redmi Note 8 (GINKGO)
+> 3. Redmi Note 7 (LAVENDER)
 <hr/>
 
 # Support
