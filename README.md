@@ -5,7 +5,7 @@
 <hr/>
 
 > [!TIP]
-> 1. Open Magisk Manager / Ksu / APatch
+> 1. Open Magisk Manager or Ksu or APatch
 > 2. Install module [Graphics composer 2.4 mod](https://t.me/modulkuntul)
 > 3. Reboot
 <hr/>
