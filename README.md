@@ -26,10 +26,10 @@
 <hr/>
 
 > [!IMPORTANT]
-> - Tested on several devices such as
-> - Redmi Note 12 4G NFC (TOPAZ)
-> - Redmi Note 8 (GINKGO)
-> - Redmi Note 7 (LAVENDER)
+> Tested on several devices such as.     
+> Redmi Note 12 4G NFC (TOPAZ)     
+> Redmi Note 8 (GINKGO)     
+> Redmi Note 7 (LAVENDER)
 <hr/>
 
 > [![Telegram URL](https://img.shields.io/badge/Telegram-Join-2CA5E?style=social&logo=telegram)](https://t.me/modulkuntul)
@@ -38,3 +38,4 @@
 > [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/illumi666)
 > <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="30" />
 > <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+<hr/>
