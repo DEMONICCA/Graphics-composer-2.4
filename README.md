@@ -1,12 +1,13 @@
 ![20241109_070909](https://github.com/user-attachments/assets/07a63e4d-5b9f-4560-9a95-00dfba34dff0)
-# Description
-- This module makes the Graphics Composer service have a higher priority to get better smoothness.
+
+> **Description**
+> This module makes the Graphics Composer service have a higher priority to get better smoothness.
 <hr/>
 
-# Installation
-1. Open Magisk Manager
-2. Install module [Graphics composer 2.4 mod](https://t.me/modulkuntul)
-3. Reboot
+> [!TIP]
+> 1. Open Magisk Manager / Ksu / APatch
+> 2. Install module [Graphics composer 2.4 mod](https://t.me/modulkuntul)
+> 3. Reboot
 <hr/>
 
 > [!NOTE]
@@ -27,7 +28,7 @@
 > - Redmi Note 7 (LAVENDER)
 <hr/>
 
-# Support
+# SUPPORT 
 [![Telegram URL](https://img.shields.io/badge/Telegram-Join-2CA5E?style=social&logo=telegram)](https://t.me/modulkuntul)
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/34376b0e-4ae2-4278-9d3d-82e8016a87d6" width="40">&nbsp;
    
