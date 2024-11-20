@@ -1,4 +1,4 @@
-![20241109_070909](https://github.com/user-attachments/assets/07a63e4d-5b9f-4560-9a95-00dfba34dff0)
+> ![20241109_070909](https://github.com/user-attachments/assets/07a63e4d-5b9f-4560-9a95-00dfba34dff0)
 
 > **DESCRIPTION...**    
 > This module makes the Graphics Composer service have a higher priority to get better smoothness.
