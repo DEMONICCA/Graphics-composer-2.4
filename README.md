@@ -13,16 +13,20 @@
 > [!NOTE]
 > - Support Android 10-15
 > - Support [Ksu](https://github.com/tiann/KernelSU/releases)-[APatch](https://github.com/bmax121/APatch/releases/tag/10763)-[Magisk](https://github.com/topjohnwu/Magisk/releases/tag/v28.0)
-> - Support all chipsets
 <hr/>
 
 > [!WARNING]
-> - I will not take responsibility if a problem occurs.
-> - Not all roms are profitable, so be careful.
+> I will not take responsibility if a problem occurs.     
+> Not all roms are profitable, so be careful.
+<hr/>
+
+> [!CAUTION]
+> If the module I created causes a bootlop, it is at your own risk    
+> I have tested it on several devices below.
 <hr/>
 
 > [!IMPORTANT]
-> - Has been tested on several devices such as.
+> - Tested on several devices such as
 > - Redmi Note 12 4G NFC (TOPAZ)
 > - Redmi Note 8 (GINKGO)
 > - Redmi Note 7 (LAVENDER)
